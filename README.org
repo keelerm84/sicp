@@ -1,0 +1,9 @@
+* Structure and Interpretation of Computer Programs
+
+In conjunction with the Triangle Developers group, I am working through the
+[[http://mitpress.mit.edu/sicp/full-text/book/book.html][SICP book]].
+
+This repository contains my solutions to the various exercises.
+
+Note that while this book is written for Scheme, my solutions may actually be
+implemented in Clojure.
