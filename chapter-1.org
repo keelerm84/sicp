@@ -323,6 +323,8 @@
                 (* 2 (f (- n 2)))
                 (* 3 (f (- n 3))))))
 
+     ;;; Iterative Solution
+
      (defn f [n]
        (defn iter [x z y count]
          (if (= count 0)
