@@ -359,3 +359,6 @@
                (pascal (- row 1) (- col 1)))))
   #+END_SRC
 
+* 1.13 - 1.15
+
+  Done by hand.
