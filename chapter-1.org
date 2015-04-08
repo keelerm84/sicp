@@ -47,7 +47,7 @@
 
     (defn sum-of-squares-of-largest-two [x y z]
       (apply sum-of-squares
-             (take 2 (reverse (sort [x y z])))))
+             (take 2 (sort > [x y z]))))
   #+END_SRC
 
 * 1.4
